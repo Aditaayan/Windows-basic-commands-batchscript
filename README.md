@@ -22,11 +22,12 @@ Adapt paths as needed based on your system configuration.
 Execute the necessary commands/batch file for the desired output. 
 
 
+# WINDOWS COMMANDS:
+
 Developed by: ADITAAYAN M
 
 Register number: 212223040006
 
-# WINDOWS COMMANDS:
 ## Exercise 1: Basic Directory and File Operations
 Create a directory named "MyLab" on the desktop.
 
